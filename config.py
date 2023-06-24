@@ -1,0 +1,4 @@
+API_TOKEN = '6229777568:AAEh74iZNoy5jnF0Moch05aSbK7XGmasTO4'
+
+TLDR_API_TOKEN = 'ef226a8811msh27881ed347902b5p15ad95jsn0fe42e5d1e09'
+TLDR_HOST = 'tldrthis.p.rapidapi.com'
